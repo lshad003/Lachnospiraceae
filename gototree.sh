@@ -6,5 +6,4 @@ module load gtotree
 
 # Run GToTree
 GToTree -a edited_assembly_result_4.txt -f my_Lachnospiraceae.txt -H /opt/linux/rocky/8.x/x86_64/pkgs/gtotree/1.8.1/share/gtot
-ree/hmm_sets/Firmicut
-es.hmm -t -L Species -j 4 -o Syn-GToTree_6-out
+ree/hmm_sets/Firmicutes.hmm -t -L Species -j 4 -o Syn-GToTree_6-out
